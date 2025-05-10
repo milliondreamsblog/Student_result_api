@@ -1,0 +1,772 @@
+[
+  {
+    "Sr No.":1,
+    "Name of Devotee":"Tanishq Bhalla",
+    "Counselor\/ Care Taker":"Ankur Pr",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":24,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":2,
+    "Name of Devotee":"Kartik Yadav",
+    "Counselor\/ Care Taker":"Ankur pr",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":17,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":3,
+    "Name of Devotee":"Vivek kumar",
+    "Counselor\/ Care Taker":"H G Deenanath Gopal Pr ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":0,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":4,
+    "Name of Devotee":"Satya Prakash Satyarthi",
+    "Counselor\/ Care Taker":"HG Adishyam Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":5,
+    "Name of Devotee":"Shivam Gupta ",
+    "Counselor\/ Care Taker":"HG Dinanath Gopal prabhu ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":21.5,
+    "O.B.E Unit 1 out of 10":7,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":6,
+    "Name of Devotee":"Ravi Kumar Rai",
+    "Counselor\/ Care Taker":"HG Hari kripa Prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":37,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":7,
+    "Name of Devotee":"Adarsh Keshari",
+    "Counselor\/ Care Taker":"HG Hari Kripa Prji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":8,
+    "Name of Devotee":"Shivam Singh",
+    "Counselor\/ Care Taker":"Hg HariKripa Pr Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":2,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.5
+  },
+  {
+    "Sr No.":9,
+    "Name of Devotee":"Krishna Kumar Gupta",
+    "Counselor\/ Care Taker":"HG Harikripa prabhu",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":40,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":10,
+    "Name of Devotee":"Aniket Awasthi",
+    "Counselor\/ Care Taker":"HG Harikripa Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":36,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":11,
+    "Name of Devotee":"Ajay Gupta",
+    "Counselor\/ Care Taker":"HG HariKripa Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":41.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":12,
+    "Name of Devotee":"Ateet",
+    "Counselor\/ Care Taker":"HG Kurma Avatar pr ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":48,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.5
+  },
+  {
+    "Sr No.":13,
+    "Name of Devotee":"Umang Varshney",
+    "Counselor\/ Care Taker":"HG KurmaAvatar pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":9.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":14,
+    "Name of Devotee":"Mayank Mani Tripathi ",
+    "Counselor\/ Care Taker":"HG KURMAAVTAR PR ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":47,
+    "O.B.E Unit 1 out of 10":9.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":15,
+    "Name of Devotee":"Pramod Kushwaha",
+    "Counselor\/ Care Taker":"HG Kurmavatar Pr",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":24,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":16,
+    "Name of Devotee":"Shivbalak Gupta",
+    "Counselor\/ Care Taker":"HG kurmavatar pr ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":47,
+    "O.B.E Unit 1 out of 10":8.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":17,
+    "Name of Devotee":"Shivam Verma",
+    "Counselor\/ Care Taker":"HG Kusal Govind pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":43,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":18,
+    "Name of Devotee":"Piyush Rai",
+    "Counselor\/ Care Taker":"HG Kusal Govind prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":48,
+    "O.B.E Unit 1 out of 10":6.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":19,
+    "Name of Devotee":"Abhishek Agarwal",
+    "Counselor\/ Care Taker":"HG Kusal Govind Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":44,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":20,
+    "Name of Devotee":"Kamal Kushwaha",
+    "Counselor\/ Care Taker":"HG Kusal Govind prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":7,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":21,
+    "Name of Devotee":"Prabal Singh",
+    "Counselor\/ Care Taker":"HG Kushal Govind pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":33,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":22,
+    "Name of Devotee":"Nitesh",
+    "Counselor\/ Care Taker":"HG Kushal Govind Prabhu Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":44.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":23,
+    "Name of Devotee":"Pawan Kumar Yadav",
+    "Counselor\/ Care Taker":"HG Kushal Govind Prabhu Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":24,
+    "Name of Devotee":"Sandeep Vishwakarma ",
+    "Counselor\/ Care Taker":"Hg Kushal Govind Prabhu ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":33,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":25,
+    "Name of Devotee":"Vishwas Verma",
+    "Counselor\/ Care Taker":"HG Kushal Govind Prabhu Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":46,
+    "O.B.E Unit 1 out of 10":8.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":26,
+    "Name of Devotee":"Divyanshu Agarwal",
+    "Counselor\/ Care Taker":"HG Kushal Govind Prabhu Ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":9,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":27,
+    "Name of Devotee":"Dhananjay Mishra",
+    "Counselor\/ Care Taker":"Hg Kushal Govind Prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":40,
+    "O.B.E Unit 1 out of 10":6.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":28,
+    "Name of Devotee":"Kartik Khandelwal",
+    "Counselor\/ Care Taker":"HG Kushal Govind Prji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":32,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":29,
+    "Name of Devotee":"Prateek Singh",
+    "Counselor\/ Care Taker":"HG Kushal Govind prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":0,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":30,
+    "Name of Devotee":"Yaswanth Kandukuri",
+    "Counselor\/ Care Taker":"HG Kushal Govind prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":42,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":31,
+    "Name of Devotee":"Avil Madhukar Sonone",
+    "Counselor\/ Care Taker":"HG Neel Mani Krishna Prabhu hi\n",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":40,
+    "O.B.E Unit 1 out of 10":8.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":32,
+    "Name of Devotee":"Susanta Kumar Rout",
+    "Counselor\/ Care Taker":"HG Neelamani Krishna Das",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":33,
+    "Name of Devotee":"Natwar Kanai Das",
+    "Counselor\/ Care Taker":"HG neelmani krishna ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":34,
+    "Name of Devotee":"Rantidev",
+    "Counselor\/ Care Taker":"Hg Neelmani Krishna Pr ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":35,
+    "Name of Devotee":"Yogendra meena",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna PR ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":42,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":36,
+    "Name of Devotee":"Akhilesh Mishra",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna pr ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":25.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":37,
+    "Name of Devotee":"Vishal Srivastava",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhu",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":36,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":38,
+    "Name of Devotee":"Indraneel Gurudatta Natu",
+    "Counselor\/ Care Taker":"HG NEELMANI KRISHNA PRABHU JI",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":44,
+    "O.B.E Unit 1 out of 10":9,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":39,
+    "Name of Devotee":"Mahaveer Prasad Meena",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhu ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":40,
+    "Name of Devotee":"Shivavesh Verma",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhu Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":37,
+    "O.B.E Unit 1 out of 10":5.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":41,
+    "Name of Devotee":"Mohit Kumar Mina",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna prabhu ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":8.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":42,
+    "Name of Devotee":"Prashant Kumar Verma",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna prabhu ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":40,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.5
+  },
+  {
+    "Sr No.":43,
+    "Name of Devotee":"Chandra Mohan",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":44,
+    "Name of Devotee":"Nikhil Kumar Singh",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":39,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":45,
+    "Name of Devotee":"Vishant Agarwal",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":46,
+    "Name of Devotee":"Sagar Goyal",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":48.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":47,
+    "Name of Devotee":"Sarthak Kedia",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna Prji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":42,
+    "O.B.E Unit 1 out of 10":8.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.0
+  },
+  {
+    "Sr No.":48,
+    "Name of Devotee":"Alok singh",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna prJi",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":6,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.5
+  },
+  {
+    "Sr No.":49,
+    "Name of Devotee":"Venkata Lakshman Medicharla",
+    "Counselor\/ Care Taker":"HG Neelmani Krishna prjj",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":48,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":50,
+    "Name of Devotee":"Priyanshu garg",
+    "Counselor\/ Care Taker":"HG Neelmani Krsna prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":28.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":51,
+    "Name of Devotee":"Vivek Pandey",
+    "Counselor\/ Care Taker":"HG Priya Govind Pr",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":31.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.5
+  },
+  {
+    "Sr No.":52,
+    "Name of Devotee":"Yadav Srestha Das",
+    "Counselor\/ Care Taker":"HG Priya Govind Pr Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":48.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":53,
+    "Name of Devotee":"Utkarsh Maheswari",
+    "Counselor\/ Care Taker":"HG Priya Govind Pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":32.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":6.0
+  },
+  {
+    "Sr No.":54,
+    "Name of Devotee":"Rishabh Singh",
+    "Counselor\/ Care Taker":"Hg Priya Govind Prabhu",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":39,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":55,
+    "Name of Devotee":"Sandeep Kumar Yadav",
+    "Counselor\/ Care Taker":"HG PRIYA GOVIND PRABHU",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":56,
+    "Name of Devotee":"Advaita Nitai Das",
+    "Counselor\/ Care Taker":"HG Priya Govind Prabhu Ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.5
+  },
+  {
+    "Sr No.":57,
+    "Name of Devotee":"Surya Prakash Tiwari",
+    "Counselor\/ Care Taker":"HG Priya Govind Prabhu ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":37,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.0
+  },
+  {
+    "Sr No.":58,
+    "Name of Devotee":"Himanshu verma",
+    "Counselor\/ Care Taker":"Hg Priya Govind prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":44.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.0
+  },
+  {
+    "Sr No.":59,
+    "Name of Devotee":"Harshit Maurya",
+    "Counselor\/ Care Taker":"HG Priya Govind prji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":47,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":6.5
+  },
+  {
+    "Sr No.":60,
+    "Name of Devotee":"Amaani Nitai Das",
+    "Counselor\/ Care Taker":"HG Priyagovind Prabhu ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":null,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":6.0
+  },
+  {
+    "Sr No.":61,
+    "Name of Devotee":"Shashank Mishra",
+    "Counselor\/ Care Taker":"HG Priyagovind prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":47,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":62,
+    "Name of Devotee":"Nishant Singhal",
+    "Counselor\/ Care Taker":"HG Shivam Prabhu G",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":35,
+    "O.B.E Unit 1 out of 10":7,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":6.5
+  },
+  {
+    "Sr No.":63,
+    "Name of Devotee":"Akash Kumar",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":39,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":64,
+    "Name of Devotee":"Vishal Kharkya",
+    "Counselor\/ Care Taker":"Hg Yogesh Chandra pr ji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":37,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.5
+  },
+  {
+    "Sr No.":65,
+    "Name of Devotee":"Ashish Maurya",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":9,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":66,
+    "Name of Devotee":"Kanchan Deep Darash",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":40.5,
+    "O.B.E Unit 1 out of 10":9,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":67,
+    "Name of Devotee":"Devesh Kumar Singh",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prabhuji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":8,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":68,
+    "Name of Devotee":"Aman Yadav",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":9,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.5
+  },
+  {
+    "Sr No.":69,
+    "Name of Devotee":"KESHAV DEEP TRIVEDI",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":45,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.5
+  },
+  {
+    "Sr No.":70,
+    "Name of Devotee":"Shikhar Srivastav",
+    "Counselor\/ Care Taker":"HG Yogesh Chandra Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":49,
+    "O.B.E Unit 1 out of 10":7.5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":10.0
+  },
+  {
+    "Sr No.":71,
+    "Name of Devotee":"Praveen kumar",
+    "Counselor\/ Care Taker":"Pawan prabhu ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":41,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":9.0
+  },
+  {
+    "Sr No.":72,
+    "Name of Devotee":"HEERA LAL",
+    "Counselor\/ Care Taker":"Pawan Prji ",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":28,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":8.0
+  },
+  {
+    "Sr No.":73,
+    "Name of Devotee":"Madan Gopal Yadav ( Maha Sankirtan Das)",
+    "Counselor\/ Care Taker":"Prashant pr ji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":12,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":7.0
+  },
+  {
+    "Sr No.":74,
+    "Name of Devotee":"Pranjul Omar",
+    "Counselor\/ Care Taker":"Prashant Prabhuji",
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":41,
+    "O.B.E Unit 1 out of 10":5,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":5.0
+  },
+  {
+    "Sr No.":75,
+    "Name of Devotee":"Aman Gupta",
+    "Counselor\/ Care Taker":null,
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":41.5,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":76,
+    "Name of Devotee":"Dev ShivHare ",
+    "Counselor\/ Care Taker":null,
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":14,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  },
+  {
+    "Sr No.":77,
+    "Name of Devotee":"Ashakant Saini",
+    "Counselor\/ Care Taker":null,
+    "C.B.E Unit 1 (CH 1,2,3) out of 50":34,
+    "O.B.E Unit 1 out of 10":null,
+    "C.B.E Unit 2 CH(4,5,6) out of 50":null,
+    "O.B.E Unit 2 out of 10":null,
+    "Sloka Test 1 (Unit 1 &2)":null
+  }
+]
